@@ -1,0 +1,7 @@
+C:\Users\leche\source\repos\questao1\questao1\bin\Debug\questao1.exe.config
+C:\Users\leche\source\repos\questao1\questao1\bin\Debug\questao1.exe
+C:\Users\leche\source\repos\questao1\questao1\bin\Debug\questao1.pdb
+C:\Users\leche\source\repos\questao1\questao1\obj\Debug\questao1.csprojAssemblyReference.cache
+C:\Users\leche\source\repos\questao1\questao1\obj\Debug\questao1.csproj.CoreCompileInputs.cache
+C:\Users\leche\source\repos\questao1\questao1\obj\Debug\questao1.exe
+C:\Users\leche\source\repos\questao1\questao1\obj\Debug\questao1.pdb
